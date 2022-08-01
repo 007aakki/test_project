@@ -17,6 +17,7 @@ class a {
 		System.out.println();
 		a ob2 =new a();
 		System.out.println(ob2.a+ob2.b+ob2.c+d+e);
+		System.out.println("hey this is RITIK PAL");
 	}
 
 }
